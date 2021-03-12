@@ -1,0 +1,7 @@
+text = input('Input something: ')
+# .strip()
+print('text.strip(): ',text.strip())
+print('len(text): ',len(text))
+print('text.lower(): ',text.lower())
+print('text.upper(): ',text.upper())
+print('text.split("a"): ',text.split('a'))
